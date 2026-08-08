@@ -14,7 +14,7 @@ PROFILE = {
     # to highlight them in the accent color.
     "bio_lines": [
         "📸 Capturing &nbsp; | &nbsp; ✏️ Sketching &nbsp; | &nbsp; ☕ Brewing &nbsp; | &nbsp; 💻 Exploring Tech",
-        "A 22-year-old creator turning coffee into code and moments into memories.",
+        "A 23-year-old creator turning coffee into code and moments into memories.",
         "<hl>M.Tech in Computer Science</hl> — <hl>AI/ML/DL &amp; Data Science</hl>",
         "<hl>Full-Stack Developer</hl>",
     ],
