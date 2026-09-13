@@ -35,6 +35,7 @@ LINKS = [
     {"label": "Threads", "icon": "🧵", "url": "https://www.threads.net/@vishal.pclicks"},
     {"label": "Snapchat", "icon": "👻", "url": "https://www.snapchat.com/@vishal.490?"},
     {"label": "Pinterest", "icon": "📌", "url": "https://in.pinterest.com/Vishal_038/"},
+    {"label": "Unsplash","icon": "📷", "url": "https://unsplash.com/@vishal_clicks01"},
     {"label": "Vero", "icon": "🟢", "url": "https://vero.co/_vishal06"},
     {"label": "Email Me", "icon": "✉️", "url": "mailto:vishaal03.it@gmail.com"},
 ]
