@@ -26,6 +26,7 @@ PROFILE = {
 
 LINKS = [
     {"label": "Instagram", "icon": "📷", "url": "https://www.instagram.com/vishal.pclicks/"},
+    {"label": "YouTube", "icon": "▶️", "url": "https://www.youtube.com/@Vishal.pclicks"},
     {"label": "X (Twitter)", "icon": "✖️", "url": "https://x.com/_vishal06"},
     {"label": "LinkedIn", "icon": "💼", "url": "https://www.linkedin.com/in/vishal-datascience/"},
     {"label": "GitHub", "icon": "🐙", "url": "https://github.com/VISHAL-038"},
@@ -35,7 +36,7 @@ LINKS = [
     {"label": "Threads", "icon": "🧵", "url": "https://www.threads.net/@vishal.pclicks"},
     {"label": "Snapchat", "icon": "👻", "url": "https://www.snapchat.com/@vishal.490?"},
     {"label": "Pinterest", "icon": "📌", "url": "https://in.pinterest.com/Vishal_038/"},
-    {"label": "Unsplash","icon": "📷", "url": "https://unsplash.com/@vishal_clicks01"},
+    {"label": "Unsplash", "icon": "📷", "url": "https://unsplash.com/@vishal_clicks01"},
     {"label": "Vero", "icon": "🟢", "url": "https://vero.co/_vishal06"},
     {"label": "Email Me", "icon": "✉️", "url": "mailto:vishaal03.it@gmail.com"},
 ]
