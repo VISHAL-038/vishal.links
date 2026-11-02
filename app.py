@@ -30,7 +30,7 @@ LINKS = [
     {"label": "X (Twitter)", "icon": "✖️", "url": "https://x.com/_vishal06"},
     {"label": "LinkedIn", "icon": "💼", "url": "https://www.linkedin.com/in/vishal-datascience/"},
     {"label": "GitHub", "icon": "🐙", "url": "https://github.com/VISHAL-038"},
-    {"label": "Portfolio", "icon": "🌐", "url": "https://vishal-038.github.io/Portfolio__/"},
+    {"label": "Portfolio", "icon": "🌐", "url": "https://vishalml.streamlit.app/"},
     {"label": "Shutterstock", "icon": "🖼️", "url": "https://www.shutterstock.com/g/vishal_pclicks"},
     {"label": "Lightroom", "icon": "🎞️", "url": "https://lightroom.adobe.com/u/4a318132"},
     {"label": "Threads", "icon": "🧵", "url": "https://www.threads.net/@vishal.pclicks"},
